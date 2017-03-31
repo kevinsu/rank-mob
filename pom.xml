@@ -6,11 +6,11 @@
     <artifactId>rank-mob</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>rank-service</module>
+        <module>service</module>
     </modules>
     <packaging>pom</packaging>
 
-    <name>rank-service</name>
+    <name>service</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
